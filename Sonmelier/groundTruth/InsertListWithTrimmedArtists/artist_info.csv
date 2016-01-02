@@ -1,0 +1,11 @@
+ID,name_lower,Name,Count,Love,Hide
+1,"not trimmed","Not Trimmed",0,0,0
+2,"left trimmed with 1 byte spaces","Left Trimmed With 1 byte spaces",0,0,0
+3,"left trimmed with 2 bytes spaces","Left Trimmed With 2 bytes spaces",0,0,0
+4,"left trimmed with tabs","Left Trimmed With tabs",0,0,0
+5,"right trimmed with 1 byte spaces","Right Trimmed With 1 byte spaces",0,0,0
+6,"right trimmed with 2 bytes spaces","Right Trimmed With 2 bytes spaces",0,0,0
+7,"right trimmed with tabs","Right Trimmed With tabs",0,0,0
+8,"both trimmed with 1 byte spaces","Both Trimmed With 1 byte spaces",0,0,0
+9,"both trimmed with 2 bytes spaces","Both Trimmed With 2 bytes spaces",0,0,0
+10,"both trimmed with tabs","Both Trimmed With tabs",0,0,0

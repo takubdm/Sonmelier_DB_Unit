@@ -1,0 +1,4 @@
+category
+artist_info
+list
+artist_and_list

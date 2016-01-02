@@ -1,0 +1,1 @@
+call remove_list(3);
