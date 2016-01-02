@@ -1,0 +1,7 @@
+/root/workspace/Sonmelier/src/test/java/DbTest/Sonmelier/CannotBeDeletedWithInvalidId.java
+/root/workspace/Sonmelier/src/test/java/DbTest/Sonmelier/InsertNewList.java
+/root/workspace/Sonmelier/src/test/java/DbTest/Sonmelier/AbstractDatabaseConnection.java
+/root/workspace/Sonmelier/src/test/java/DbTest/Sonmelier/RemoveListAndNonExtinctedArtistRemains.java
+/root/workspace/Sonmelier/src/test/java/DbTest/Sonmelier/InsertListsWithSameCategory.java
+/root/workspace/Sonmelier/src/test/java/DbTest/Sonmelier/CannotBeInsertedWithDuplicatedListname.java
+/root/workspace/Sonmelier/src/test/java/DbTest/Sonmelier/InsertListWithTrimmedArtists.java
